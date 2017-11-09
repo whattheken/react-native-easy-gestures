@@ -43,6 +43,7 @@
     "jest": "19.0.2",
     "react": "16.0.0-alpha.6",
     "react-native": "0.43.4",
-    "react-test-renderer": "16.0.0-alpha.6"
+    "react-test-renderer": "16.0.0-alpha.6",
+    "prop-types": "^15.6.0",
   }
 }
